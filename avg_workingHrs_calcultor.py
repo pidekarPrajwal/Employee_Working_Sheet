@@ -20,8 +20,8 @@ Usage:
       --jira ".\\Jira sheet 100.xlsx" ^
       --worklogs ".\\Worklogs.xlsx" ^
       --leave ".\\Leave.xlsx" ^
-      --output ".\\Jira_avg_task_emp.xlsx" ^
       --month 07
+      --output ".\\Jira_avg_task_emp.xlsx" ^
 """
 
 from __future__ import annotations
